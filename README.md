@@ -1,1 +1,2 @@
-# kenmoe_noela
+
+# kenmoe_noela                                 main.cpp est un code qui contient des implémentation de fonction qui permettent de manipuler des chaîne de caractères en langage C++ en montrant les différentes actions ou opérations que l'on peut mener sur les chaîne de caractères.             par exemple : copier une chaîne de caractères, concaténer une chaîne de caractères,diviser une chaîne de caractères etc 
